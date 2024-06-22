@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244243368534",
+    "project_id": "stem-whether",
+    "storage_bucket": "stem-whether.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244243368534:android:8230521a934720c95889f7",
+        "android_client_info": {
+          "package_name": "com.example.wheather_stem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB45zJwd7zrlVE8ffaTuSYUTMa-S2cWjmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
